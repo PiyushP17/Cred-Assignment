@@ -10,6 +10,6 @@ public class BuysellApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BuysellApplication.class, args);
-		log.info("Congrats! Your server is started");
+		log.info("Congrats! Your server has started");
 	}
 }
